@@ -1,24 +1,60 @@
-<h1 align="center">LawGPT - RAG based Generative AI Attorney Chatbot</h1>
-<h3 align="center">Know Your Rights! Better Citizen, Better Nation!</h1>
 
-<p align="center">
-<img src="https://github.com/harshitv804/LawGPT/assets/100853494/ecff5d3c-f105-4ba2-a93a-500282f0bf00" width="700"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NyaySearch - Legal Document Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>NyaySearch</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Support us</a></li>
+                <li><a href="#">About us</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Search for Legal Documents, Case Laws and more</h2>
+            <div class="search-bar">
+                <input type="text" placeholder="Search legal cases, statutes, and precedents">
+                <button><img src="search-icon.png" alt="Search"></button>
+            </div>
+            <section class="quick-search">
+                <h3>Quick Search :</h3>
+                <div class="search-options">
+                    <button>Case Laws</button>
+                    <button>Judgements</button>
+                    <button>Court Orders</button>
+                    <button>Legal Articles</button>
+                </div>
+            </section>
+        </div>
+    </section>
+
+
+
+    <footer>
+        <p>&copy; 2024 NyaySearch. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 ## About The Project
 LawGPT is a RAG based generative AI attorney chatbot that is trained using Indian Penal Code data. This project was developed using Streamlit LangChain and TogetherAI API for the LLM. Ask any questions to the attorney and it will give you the right justice as per the IPC. Are you a noob in knowing your rights? then this is for you!
 <br>
 
-<div align="center">
-  <br>
-  <video src="https://github.com/harshitv804/LawGPT/assets/100853494/b6711fd6-87df-4a37-ba24-317c50dc6f8f" width="400" />
-  <br>
-</div>
+<div align=
 
 
 
-
-### Check out the live demo on Hugging Face <a href="https://huggingface.co/spaces/harshitv804/LawGPT"><img src="https://static.vecteezy.com/system/resources/previews/009/384/880/non_2x/click-here-button-clipart-design-illustration-free-png.png" width="120" height="auto"></a>
+### Check out the live demo on Hugging Face <a href="https://huggingface.co/spaces/harshitv804/NYAY SEARCH"><img src="https://static.vecteezy.com/system/resources/previews/009/384/880/non_2x/click-here-button-clipart-design-illustration-free-png.png" width="120" height="auto"></a>
 
 ## Getting Started
 
